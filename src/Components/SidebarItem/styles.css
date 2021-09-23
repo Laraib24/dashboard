@@ -1,0 +1,19 @@
+.sidebar-item {
+  display: flex;
+  padding: 10px 30px;
+}
+.menu-item {
+  color: white;
+  font-weight: 400;
+  font-size: 14px;
+  padding: 2px;
+}
+.sidebar-item:hover {
+  border-left: 5px solid white;
+  cursor: pointer;
+}
+.sidebar-icon {
+  color: white;
+  font-size: 8;
+  margin-right: 30px;
+}

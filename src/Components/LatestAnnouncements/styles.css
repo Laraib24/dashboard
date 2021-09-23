@@ -1,0 +1,16 @@
+.latest {
+  display: flex;
+  margin-left: 270px;
+}
+.latest-heading {
+  font-size: 18px;
+}
+.ann-input {
+  outline: none;
+  border-width: 0px;
+  border: 1px solid rgba(128, 128, 128, 0.068);
+  padding: 8px 5px;
+  margin: 10px 5px;
+  width: 380px;
+  font-size: 10px;
+}

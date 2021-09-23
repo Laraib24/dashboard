@@ -1,0 +1,13 @@
+.log {
+  margin-left: 600px;
+  margin-top: -300px;
+}
+.log-heading {
+  font-weight: 500;
+  padding: 0px 10px;
+  margin-top: 0px;
+}
+.log-head {
+  display: flex;
+  margin-left: 510px;
+}

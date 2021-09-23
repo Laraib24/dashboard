@@ -1,0 +1,15 @@
+.sidebar {
+  background-color: #1b56ab;
+  margin: 0;
+  padding: 0;
+  width: 240px;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+.title {
+  color: white;
+  letter-spacing: 1.3px;
+  font-family: Roboto;
+  margin-right: 70px;
+}
